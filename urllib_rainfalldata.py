@@ -7,7 +7,7 @@ Created on Thu Feb  1 16:06:07 2018
 import urllib.request
 import datetime
 from dateutil.relativedelta import relativedelta
-import fnmatch  # use to file type of file (用來找有沒有後綴是某個類型檔案的)
+import fnmatch  # find specific file type 
 
 filenames_mix = [];
 filenames = [];
@@ -18,7 +18,7 @@ for i in filenames_mix:
     filenames.append( i.strip().split(' '))
 
 '''words2[4][16]
-right click the downloading file to find the website (下載檔案 → 首先對要下載的點按右鍵知道他的網址)
+right click the downloading button to find the downloading link 
 '''
 firstmonth = datetime.date(1991, 1, 1)
 minthnumbers_data = []
