@@ -4,15 +4,17 @@ Created on Sat Feb 17 11:26:20 2018
 
 @author: Chi
 """
+import numpy as np
+from matplotlib import animation
 
 # =============================================================================
 # plot
 # =============================================================================
 
-import numpy as np
 
-n = 15;  #網格密度
-g = 9.8;  #重力加速度
+
+n = 15;  #grid dnsity
+g = 9.8;  # g value
 dt = 0.04;  #running velocity
 dx = 1.0;
 dy = 1.0;
@@ -106,7 +108,6 @@ surf = ax.plot_surface(x, y, h,rstride=1, cstride=1,cmap=cm.coolwarm,linewidth=0
 fig.colorbar(surf, shrink=0.5, aspect=5)
 
 
-from matplotlib import animation
 
 
 def data(k,h,surf):
