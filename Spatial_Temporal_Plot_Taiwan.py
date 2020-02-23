@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar 14 00:18:44 2018
+simualte and visualize the rainfall data from Central Weather Bureau with Python 
 
+Created on Wed Mar 14 00:18:44 2018
 @author: Chi
 """
 
