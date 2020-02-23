@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 17 11:26:20 2018
+Using shallow water equation to model water wave 
 
+
+Created on Sat Feb 17 11:26:20 2018
 @author: Chi
 """
 import numpy as np
