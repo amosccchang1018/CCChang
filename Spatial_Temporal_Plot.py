@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-simulate and visualize the raindall data from Central Weather Bureau  
+simulate and visualize the raindall data from Central Weather Bureau by Python 
 
 
 Created on Thu Mar  1 20:16:43 2018
