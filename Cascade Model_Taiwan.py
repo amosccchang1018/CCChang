@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 31 20:07:02 2018
+use the concept of casade model to simulate the daily rainfall in Taiwan 
 
+
+Created on Sat Mar 31 20:07:02 2018
 @author: Chi
 """
 import scipy.io as sio
