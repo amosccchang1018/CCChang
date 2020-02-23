@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  1 22:48:27 2018
+visualize rainfall in specific area by Geoinformation in Germany with Python 
 
+Created on Thu Feb  1 22:48:27 2018
 @author: Chi
 """
 import numpy as np
