@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+simulate and visualize the raindall data from Central Weather Bureau  
+
+
 Created on Thu Mar  1 20:16:43 2018
 #Spatial and Temporal
 @author: Chi
