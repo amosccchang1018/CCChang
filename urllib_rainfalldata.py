@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb  1 16:06:07 2018
+use Web crawler to download daily rainfall data from offical rainfall website in germany
 
+
+Created on Thu Feb  1 16:06:07 2018
 @author: Chi
 """
 import urllib.request
